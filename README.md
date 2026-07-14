@@ -81,3 +81,4 @@ This project is a work in progress. The solver currently reads input files and p
 - [Boolean Satisfiability Problem — Wikipedia](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)
 - [SAT Solving — University of Waterloo (PDF)](https://eceweb.uwaterloo.ca/~agurfink/stqam.w19/assets/pdf/W07-SAT.pdf)
 - [MiniSat — A minimalistic, high-performance SAT solver](https://github.com/niklasso/minisat)
+- [CNF Files  — A list of DIMACS CNF examples](https://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html)
